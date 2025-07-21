@@ -1,0 +1,24 @@
+/* public/css/custom.css */
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 100%;
+}
+
+.card-text {
+    margin-bottom: 0.5rem;
+}
+
+.card-title {
+    margin-bottom: 0.5rem;
+}
+
+.descripcion {
+    min-height: 48px; /* o 2 líneas como referencia */
+}
+.card.h-100 {
+    min-height: 250px;
+}
+
+
